@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "182949779500",
+    "project_id": "infood-a1c67",
+    "storage_bucket": "infood-a1c67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182949779500:android:0a50fe86f92e32ba729989",
+        "android_client_info": {
+          "package_name": "com.infood.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182949779500-jpqfbmpp0c57elvt5ginaa3op0cl6185.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infood.user",
+            "certificate_hash": "3bc3fe45ef54ede8969eddf5d90522e3af37d776"
+          }
+        },
+        {
+          "client_id": "182949779500-df06hqpt73dgfjd684oa0ruhau3757at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCRgUxcFHUsIX88XIu5XG-kLj7ucFGJKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182949779500-8br5ke84djb0pc43fgcl1q5o2mjhq72v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "182949779500-fu5t7g0mlcb9sn78lm36401i50i2onn4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infood.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

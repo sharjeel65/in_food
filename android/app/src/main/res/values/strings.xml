@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">InFood</string>
+    <string name="facebook_app_id">625691306244767</string>
+    <string name="fb_login_protocol_scheme">fb625691306244767</string>
+    <string name="facebook_client_token">4d9e72709e0802c8c1b85a1dff9a13f2</string>
+</resources>
